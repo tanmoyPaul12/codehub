@@ -1,0 +1,35 @@
+body{
+    background-color: #1a8317;
+    text-align: center;
+    border: 2px solid;
+    width: 50%;
+    margin: auto;
+}
+#s{
+    background-color: burlywood;
+    color: red;
+}
+
+
+
+#p1{
+    color: rgb(155, 228, 30)
+}
+
+#p2{
+    background-color: rgb(18, 179, 179);
+}
+
+#p3{
+    color: rgb(237, 5, 5)
+}
+
+.p4{
+    background-color: black;
+    color: pink;
+}
+.p5{
+    background-color: aquamarine;
+    color: rgb(174, 21, 154)
+}
+
