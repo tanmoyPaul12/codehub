@@ -26,10 +26,10 @@ body{
 
 .p4{
     background-color: black;
-    color: pink;
+    color: lch(83.58% 24.38 7.82);
 }
 .p5{
-    background-color: aquamarine;
-    color: rgb(174, 21, 154)
+    background-color: #1e0eb0;
+    color: rgb(212, 191, 191)
 }
 
