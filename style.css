@@ -54,7 +54,8 @@ header{
 }
 #f3{
     font-family: 'Courier New', Courier, monospace;
-    font-size:x-small;
+    font-size:larger;
+    font-style:initial;
     color: #fdfdfd;
     background-color: cadetblue;
 }
