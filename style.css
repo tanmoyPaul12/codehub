@@ -1,12 +1,12 @@
-body{
-    background-color: #1a8317;
+header{
+    background-color: #9784ae;
     text-align: center;
     border: 2px solid;
     width: 50%;
     margin: auto;
 }
 #s{
-    background-color: burlywood;
+    background-color: rgb(233, 197, 151);
     color: red;
 }
 
@@ -33,3 +33,28 @@ body{
     color: rgb(212, 191, 191)
 }
 
+.secti{
+    text-align: center;
+}
+#f1{
+    display: inline-block;
+    background-color:#891010;
+    color: #24c419;
+    font-family:   Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#f2{
+    background-color: antiquewhite;
+    font-family: "lucida console";
+    font: size 20px;
+    font-style: italic;
+
+}
+#f3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:x-small;
+    color: #fdfdfd;
+    background-color: cadetblue;
+}
