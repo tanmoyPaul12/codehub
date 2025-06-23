@@ -59,3 +59,55 @@ header{
     color: #fdfdfd;
     background-color: rgb(54, 155, 158);
 }
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+nav{
+    border: 2px solid hsla(0, 0%, 17%, 0.814);
+    border-radius: 2rem;
+    margin: 2rem auto 1rem;
+    max-width: 600px;
+    font-size: 2rem;
+    line-height: 4rem;
+}
+#heading{
+        background: hsla(350, 65%, 71%, 0.825);
+        border-radius: 2rem 2rem 0 0;
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    display: block;
+}
+
+li{
+    border: 1px solid hsla(0, 0%, 17%, 0.351);
+}
+
+li a,
+li a:visited{
+            text-decoration: double;
+            color: hsl(59, 91%, 44%);
+}
+
+li a:hover,
+li a:focus{
+            background-color: hsla(160, 76%, 28%, 0.758);
+            color: hsl(0, 0%, 0%);
+}
+
+li:last-child a{
+    border-radius: 0 0 2rem 2rem;
+}
