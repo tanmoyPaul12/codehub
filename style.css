@@ -68,6 +68,7 @@ header{
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     margin: 0.5rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -81,6 +82,7 @@ nav{
     font-size: 2rem;
     line-height: 4rem;
 }
+
 #heading{
         background: hsla(350, 65%, 71%, 0.825);
         border-radius: 2rem 2rem 0 0;
